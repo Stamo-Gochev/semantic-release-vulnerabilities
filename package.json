@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Stamo-Gochev/semantic-release-vulnerabilities#readme",
   "dependencies": {
-    "npm": "latest"
+    "npm": "11.13.0"
   }
 }
